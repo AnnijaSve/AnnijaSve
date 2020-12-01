@@ -1,6 +1,6 @@
 
 
-![Alt text](https://www.hdnicewallpapers.com/Walls/Big/Abstract/Abstract_Constellation_5K_Wallpapers.jpg)
+![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 :wave: Hello! I am a Software Engineer from Latvia , who likes to learn something new every day. 
 Get in touch - www.linkedin.com/in/ajinna
