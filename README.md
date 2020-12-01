@@ -13,4 +13,4 @@ A slightly more advanced version, two additional options added for choice. Have 
 
 :point_right: -A blog: https://github.com/AnnijaSve/codelex-blog
 
-:mag: -A simple person registry system, where added option, search by personal code: https://github.com/AnnijaSve/Person_Registry
+:mag: -A simple application, where need to be a registered user to make post, like or delete it: https://github.com/AnnijaSve/Posts-application
