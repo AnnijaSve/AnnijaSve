@@ -1,6 +1,7 @@
 
+<img src="https://media.giphy.com/media/UOc4PvhTFl7BC/giphy.gif" width="500" height="600">
 
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 :wave: Hello! I am a Software Engineer from Latvia , who likes to learn something new every day. 
 Get in touch - www.linkedin.com/in/ajinna
