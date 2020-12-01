@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/UOc4PvhTFl7BC/giphy.gif" width="500" height="600">
+<img src="https://media.giphy.com/media/UOc4PvhTFl7BC/giphy.gif" width="400" height="500">
 
 
 
