@@ -7,9 +7,7 @@ Get in touch - www.linkedin.com/in/ajinna
 
 Here are some of my projects:
 
-:video_game: -The game: Rock Paper Scissors Lizard and Spock: https://github.com/AnnijaSve/Paper-Rock-Scissors-Lizard-Spock
-
-A slightly more advanced version, two additional options added for choice. Have fun! :)
+:point_right: -Mini internet bank system: https://github.com/AnnijaSve/Mini_bank_system-laravel
 
 :point_right: -A blog: https://github.com/AnnijaSve/codelex-blog
 
